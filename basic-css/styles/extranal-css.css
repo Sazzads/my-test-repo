@@ -1,0 +1,28 @@
+h3{
+    color: magenta;
+    text-decoration: underline wavy red;
+}
+p{
+    color: blue;
+}
+.page-title{
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.header{
+    height: 400px;
+    background: url("../images/bloghome.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: aliceblue;
+    background-color: gray;
+    background-blend-mode:multiply;
+
+}
+a{
+    text-decoration: none;
+}
+.blog{
+    /* text-shadow: 50px 50px gray; */
+}
